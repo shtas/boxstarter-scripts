@@ -13,3 +13,5 @@ cinst git
 cinst PoshGit
 
 cinst 7zip
+
+cinst console-devel
